@@ -1,7 +1,5 @@
-# BagsQ
-
-- To See My Project Live , Click on This [BagsQ]().
-- Github Link of Server Site [BagsQ-Server]()
+ # BagsQ
+- Github Link of Server Site [BagsQ-Server](https://github.com/MafujulHaquePlabon/bagsq-server)
 
 ## Features Of This Site
 
